@@ -76,8 +76,9 @@ const RESOURCES = {
 "assets/assets/tungro5.jpg": "beae016d4bb5c5f00a4664e9c143b192",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "9cffc5a41e608c839e865da3ca5d3702",
+"assets/NOTICES": "c9d0d42dc5d0ee3a7b453a70cf96c20d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/shaders/ink_sparkle.frag": "aa09d37dc75692d1d2f35a50f572dee2",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -88,9 +89,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "80dc20d6bbcf89a1d2459480e15b855a",
-"/": "80dc20d6bbcf89a1d2459480e15b855a",
-"main.dart.js": "733e3281bd9c6ff5d601e4cff20867db",
+"index.html": "dc05cb1bf699d8d8b4321ae943a80fe1",
+"/": "dc05cb1bf699d8d8b4321ae943a80fe1",
+"main.dart.js": "dffa822511ef919c4a85cd27122d9a9c",
 "manifest.json": "8836bc035984c10a2b3625e8bfe2a287",
 "version.json": "1e98a4f7390d2e9d9ad60c99fb0aff05"
 };
@@ -100,7 +101,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
